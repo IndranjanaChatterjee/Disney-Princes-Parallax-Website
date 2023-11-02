@@ -9,9 +9,6 @@ Welcome to the Disney Princes Parallax Website! This interactive and visually ca
 
 - **Responsive Design**: Experience the magic on any device, thanks to our responsive design that adapts to screens of all sizes.
 
-## Live Demo
-
-🔗 [Explore the Disney Princes Parallax Website](https://yourwebsiteurl.com)
 
 ## Installation
 
